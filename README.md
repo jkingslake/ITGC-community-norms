@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a repository for hosting and collaboratively developing International Thwaites Glacier Collaboration's community norms and values document. The text of the document is located in [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md) and displayed publicly at [https://ldeo-glaciology.github.io/ITGC-community-norms/](https://ldeo-glaciology.github.io/ITGC-community-norms/). 
+This is a repository for hosting and collaboratively developing International Thwaites Glacier Collaboration's community norms and values document. The text of the document is located in [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md) and displayed publicly at [[https://ldeo-glaciology.github.io/ITGC-community-norms/](https://ldeo-glaciology.github.io/ITGC-field-doc/)]([https://ldeo-glaciology.github.io/ITGC-community-norms/](https://ldeo-glaciology.github.io/ITGC-field-doc/)). 
 
 ## The document
 
