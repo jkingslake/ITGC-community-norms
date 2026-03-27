@@ -2,8 +2,7 @@ cff-version: 1.2.0
 message: "If you use this document, please cite it as below."
 authors:
 - name: “International Thwaites Glacier Collaboration IDEA committee"
-title: “ITGC field and ship best practices”
-version: 2.0.2
-doi: 110.5281/zenodo.5789786
-date-released: 2021-12-17
-url: "https://github.com/jkingslake/ITGC-field-doc"
+title: “ITGC community norms”
+version: 1.0.3
+doi: 10.5281/zenodo.19255786
+url: "https://github.com/jkingslake/ITGC-community-norms"
