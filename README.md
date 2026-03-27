@@ -21,5 +21,8 @@ Alternatively, please feel free to make edits directly to [index.md](https://git
 
 If you have any questions, no matter how small, creating an issue is the first step, or alternatively contact the ITGC Science and Coordination Office at sco@thwaitesglacier.org.
 
+## Citation
+Please cite this document as follows:
 
+“International Thwaites Glacier Collaboration IDEA Council" (2020). International Thwaites Glacier Collaboration community norms and values (v1.0.2). Zenodo. [https://doi.org/10.5281/zenodo.19255953](https://doi.org/10.5281/zenodo.19255786)
 
