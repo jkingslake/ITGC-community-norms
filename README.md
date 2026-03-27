@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a repository for hosting and collaboratively developing International Thwaites Glacier Collaboration's community norms and values document. The text of the document is located in [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md) and displayed publicly at [[https://ldeo-glaciology.github.io/ITGC-community-norms/](https://ldeo-glaciology.github.io/ITGC-field-doc/)]([https://ldeo-glaciology.github.io/ITGC-community-norms/](https://ldeo-glaciology.github.io/ITGC-field-doc/)). 
+This is a repository for hosting and collaboratively developing International Thwaites Glacier Collaboration's community norms and values document. The text of the document is located in [index.md](https://github.com/jkingslake/ITGC-community-norms/blob/main/index.md) and displayed [here](https://jkingslake.github.io/ITGC-community-norms/).
 
 ## The document
 
@@ -17,7 +17,7 @@ To contribute to the discussion of ITGC norms and values the best first step is 
 
 If you want to be kept up to date with any new issues that are posted you can 'Watch' this repository by clicking on the Watch button in the top right. 
 
-Alternatively, please feel free to make edits directly to [index.md](https://github.com/ldeo-glaciology/ITGC-community-norms/blob/main/index.md) (where the text of the document is stored) and create a pull request. This will then be discussed openly and potentially merged. There are many guides online on how to make your first pull request, e.g., [here](https://medium.com/@akashnambitkr2000/a-beginners-guide-on-making-first-pull-request-76792c0cceb6).
+Alternatively, please feel free to make edits directly to [index.md](https://github.com/jkingslake/ITGC-community-norms/blob/main/index.md) (where the text of the document is stored) and create a pull request. This will then be discussed openly and potentially merged. There are many guides online on how to make your first pull request, e.g., [here](https://medium.com/@akashnambitkr2000/a-beginners-guide-on-making-first-pull-request-76792c0cceb6).
 
 If you have any questions, no matter how small, creating an issue is the first step, or alternatively contact the ITGC Science and Coordination Office at sco@thwaitesglacier.org.
 
